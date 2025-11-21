@@ -1,15 +1,16 @@
 # Bryan Carias
 
 **Fullstack Software Developer**  
-Especializado en el diseño y desarrollo de soluciones escalables, seguras y orientadas a resultados empresariales. Con experiencia en aplicaciones backend y frontend, integraciones RESTful y automatización de procesos de negocio.
+Ingeniero en Sistemas con más de cuatro años de experiencia en desarrollo de 
+software, trabajando en soluciones web full-stack usando React, C#, .NET Core y SQL Server. He participado en el diseño, construcción y mantenimiento de aplicaciones empresariales orientadas a procesos, implementando BPMN, automatización, APIs REST, análisis de datos y optimización de rendimiento.
 
 ---
 
 ## 🔧 Tecnologías principales
 
 - **Backend:** C#, .NET, SQL Server, PostgreSQL, Kotlin
-- **Frontend:** Angular, Flutter, HTML5, CSS3
-- **DevOps / Otros:** Git, Docker, APIs REST, BPMN 2.0
+- **Frontend:** React, Flutter, HTML5, CSS3
+- **DevOps / Otros:** Git, Azure Devops, APIs REST, BPMN 2.0
 
 ---
 
